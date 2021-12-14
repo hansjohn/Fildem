@@ -3,7 +3,7 @@ pkgver=0.6.5
 pkgrel=1
 pkgdesc="This project is a fork of gnomehud with the adition of a global menu bar"
 arch=('i686' 'x86_64')
-url="https://github.com/gonzaarcr/fildem"
+url="https://github.com/hansjohn/fildem"
 depends=('bamf'
          'appmenu-gtk-module'
          'libkeybinder3'
