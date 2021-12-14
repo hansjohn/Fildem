@@ -11,7 +11,7 @@ depends=('bamf'
          'libdbusmenu-gtk3')
 makedepends=('git')
 provides=("python3-fildem=$pkgver")
-source=('git+https://github.com/gonzaarcr/fildem.git')
+source=('git+https://github.com/hansjohn/fildem.git')
 md5sums=('SKIP')
 
 pkgver() {
